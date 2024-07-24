@@ -1,0 +1,57 @@
+.body {
+	margin :10px 100px 10px 100px
+}
+
+.header {
+	height: 75px;
+	background: #D7EEFF;
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.title {
+	margin-top:1px;
+	margin-left: 1em;
+}
+
+.after-login-menu {
+	margin: 2em;
+	text-align: right;
+}
+
+.container {
+	width: 100%;
+	margin: 10px auto;
+	display: flex;
+	justify-content: space-between;
+}
+
+.main-contents {
+  width: 70%;
+  margin-left: 15px;
+
+}
+
+.side-bar{
+	width: 30%;
+	border-right:2px solid #dcdcdc;
+}
+
+ul {
+	list-style: none;
+}
+
+.side-menu li {
+	margin-top: 15px;
+}
+
+.footer {
+	font-size: 15px;
+	color: #4b5564;
+	background: #dcdcdc;
+}
+
+.copyright{
+	text-align: center
+}
